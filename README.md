@@ -4,8 +4,8 @@ For this problem, a set of satellite/aerial images acquired from Google Maps and
 
 This repository contains following parts:
 
-1. Training data — download `training` from  https://inclass.kaggle.com/c/epfml-segmentation/data and put `training` in `/`
-2. Testing data — download `test_set_image` from  https://inclass.kaggle.com/c/epfml-segmentation/data and put `test_set_image` in `/`
+1. Training data — `training`
+2. Testing data — `test_set_image`
 3. CNN code for road segmentation — run.py
 4. A pre-computed CNN model — mnist
 5. Prediction data — `predictions_testing`
