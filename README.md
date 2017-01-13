@@ -14,3 +14,5 @@ This repository contains following parts:
 To train your own model, please set RESTORE_MODEL = False. The training might take several hours.
 
 To reproduce the result shown in this file, please set RESTORE_MODEL = True.
+
+This is the work of Fan Zhang, Wenyuan Lv, and Tina Fang.
